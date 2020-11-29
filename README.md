@@ -10,15 +10,10 @@ You should create one R script called run_analysis.R that does the following.
 4. Appropriately labels the data set with descriptive activity names.
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-## Steps to work on this course project
-
-1. Download the data source and put into a folder on your local drive. You'll have a ```UCI HAR Dataset``` folder.
-2. Create R-Markdown file or script run_analysis.R
-3. 
 
 ## Contents
 
-This repo contains following files.
+This repo contains 4 following files.
 
 * run_analysis.R - R scrip to perform analysis
 * CodeBook.md - document that describes the variables, data, and transformations
